@@ -1,0 +1,86 @@
+<!doctype html> 
+<html lang="pt-br">
+    <head>
+        <title>Consultório Clínico</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Consultório Clínico</h1>
+        <form     action="gravarDados.php" method="post"
+                enctype="multipart/form-data">
+            <br>
+			Data de agendamento: 
+            <input     type="date" name="agendamento" id="data">
+			</br>
+			
+			<br>		 
+			Horário de agendamento:
+			<input	type="time" name="hora" id="Horario"
+					placeholder="do agendamento">
+			</br>
+			<br>
+			Nome do cliente:
+			<input	type="text" name="nomeP" id="nome"
+					maxlength="50" size="50">
+					
+			</br>
+			<br>
+			E-mail:
+			<input	type="text" name="email" id="email"
+					size="50">
+			</br>
+			<br>
+			Telefone:
+			<input type="tel" name="telefone" id="telefone"
+				   maxlength="15">
+			</br>
+			
+			<br>
+			Data de nascimento:
+			<input	type="date" name="nascimento" id="dataN">
+			</br>
+			
+			<br>
+    
+        Estado civíl:
+            <select name="estadocivil">
+                <option value="">Selecione</option>
+                <option value="S">Solteiro</option>
+                <option value="C">Casado</option>
+                <option value="V">Viúvo</option>
+                <option value="U">União Estável</option>
+   
+            </select> <br>
+            
+            <fieldset>
+                <legend>Sexo</legend>
+                <input     type="radio" name="sexo" 
+                        value="M"> Masculino
+                <input     type="radio" name="sexo" 
+                        value="F"> Feminino
+            </fieldset>
+            
+            Doença crônica:
+            <input     type="checkbox" name="doenca_cronica"
+                    value="1"><br>
+            
+            Foto da carteirinha: 
+			<input type="file" name="carteirinha"><br>
+			
+			Foto do RG: 
+			<input type="file" name="rg"><br>
+			<br>
+			Número da carteirinha:
+			<input type="int" name="numero_carteirinha"
+				   maxlength="30" size="30">
+			</br>
+			
+            Descrição da situação médica atual: <br>
+            <textarea name="sit_med" rows="4" 
+                cols="70"></textarea> <HR>
+			</br>
+            <input type="submit" value="Cadastrar">
+            <input type="reset" value="Limpar Campos">
+        </form>
+    </body>
+</html>
