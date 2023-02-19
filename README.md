@@ -1,5 +1,5 @@
 # php-college
-Esse é um projeto que foi feito utilizando PHP, SQL e o WAMP SERVER
+Esse é um projeto que foi feito utilizando PHP, SQL e o WAMP SERVER                                                                                                        
 *This project was created using PHP, SQL and WAMP SERVER*
 
 
