@@ -1,14 +1,20 @@
 # php-college
-Esse é um projeto que foi feito utilizando PHP, SQL e o WAMP SERVER                                                                                                        
+Esse é um projeto que foi feito utilizando PHP, SQL e o WAMP SERVER.                                                                                                        
 *This project was created using PHP, SQL and WAMP SERVER*
 
 
-## Para acessar, você precisa ter os arquivos salvos no seu diretório no WAMP SERVER e abrir eles por la 
+## Para acessar, você precisa ter os arquivos salvos no seu diretório no WAMP SERVER e abrir eles por lá.
+
+*To acess, you will have to save your files in your directory from WAMP SERVER and open them there.*
 ![image](https://user-images.githubusercontent.com/121894013/219904063-873f1fd8-c7d7-4733-be47-42fbfa3be922.png)
 
 
 ## Consultório Clinico 
-tabela de castrado abaixo 
+
+###tabela de castrado abaixo
+
+*clinical office*
+
 
 ![image](https://user-images.githubusercontent.com/121894013/219903878-c6893e44-803d-4cba-aff4-991e5624cd66.png)
 
