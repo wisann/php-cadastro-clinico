@@ -25,7 +25,7 @@ Esse é um projeto que foi feito utilizando PHP, SQL e o WAMP SERVER.     <br>
 
 ## Nessa pasta é armazenada as imagens que sao anexadas na tabela. <br>
 
-*This folder holds the imagens that were inserted in the table*
+*This folder holds the images that were inserted in the table*
 
 ![image](https://user-images.githubusercontent.com/121894013/219904177-2974a5c7-9322-421a-918f-b9f770d8c641.png)
 
