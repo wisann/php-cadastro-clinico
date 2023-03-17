@@ -1,4 +1,4 @@
-# php-cadastro
+# php-cadastro clinico
 Esse é um projeto que foi feito utilizando PHP, SQL e o WAMP SERVER.     <br>                                                                                                   
 *This project was created using PHP, SQL and WAMP SERVER*
 
